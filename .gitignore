@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Downloaded automatically on first run
+hand_landmarker.task
